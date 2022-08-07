@@ -363,7 +363,7 @@ column;ProductID;Production;vProductAndDescription;TABLE;int;0
 column;ProductModel;Production;vProductAndDescription;TABLE;Name: nvarchar;0
 column;BikeFrame;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
 column;Color;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
-column;Copyright;Production;vProductModelCatalogDescription;TABLE;nvarchar
+column;Copyright;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
 column;Crankset;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
 column;MaintenanceDescription;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
 column;Manufacturer;Production;vProductModelCatalogDescription;TABLE;nvarchar;1
