@@ -79,7 +79,7 @@ namespace ConsoleApp
                             //If both criteria are filled than increse the number of children
                             importedObject.numberOfChildren = 1 + importedObject.numberOfChildren;
                             //the importedObject variable should be saved somewhere?? otherwise it is useless
-                            //added the assignment of the updated value to proper filed in the database object
+                            //added the assignment of the updated value to proper field in the database object
                             ((List<ImportedObject>)ImportedObjects)[i].numberOfChildren = importedObject.numberOfChildren;
                         }
                     }
