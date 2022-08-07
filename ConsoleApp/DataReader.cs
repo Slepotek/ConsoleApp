@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-//All things considered the operations included in this algorithm could work on a proper SQL database.
+//All things considered the operations included in this algorithm could be a lot easier on a proper SQL database.
 //Using LINQ expresions and EF would be a lot better idea, however I can think of many situations, where the CSV format is the only way. 
 namespace ConsoleApp
 {
